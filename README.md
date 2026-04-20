@@ -105,3 +105,19 @@ Author
 
 Key Feature  
 Detects and blocks broadcast packets (ff:ff:ff:ff:ff:ff) using SDN controller logic.
+
+Screenshots
+<img width="960" height="1128" alt="Screenshot 2026-04-20 095735" src="https://github.com/user-attachments/assets/5f34417c-08c7-451c-9c0d-7fa4cc15f923" />
+<img width="960" height="1128" alt="Screenshot 2026-04-20 095841" src="https://github.com/user-attachments/assets/889b6005-99f9-4816-a8b7-4749b471e727" />
+<img width="960" height="1128" alt="Screenshot 2026-04-20 095923" src="https://github.com/user-attachments/assets/69d07d1c-6535-465e-b573-c3b7bff4d6d9" />
+<img width="960" height="1128" alt="Screenshot 2026-04-20 100115" src="https://github.com/user-attachments/assets/174a83fe-18ab-4d61-a4db-cc3dd50b2924" />
+<img width="960" height="1128" alt="Screenshot 2026-04-20 100129" src="https://github.com/user-attachments/assets/e9df75f2-b2f0-414b-9c10-b4d291685932" />
+<img width="960" height="1128" alt="Screenshot 2026-04-20 100159" src="https://github.com/user-attachments/assets/64d11085-8067-4e9d-ad48-17b6ed10016c" />
+<img width="960" height="1128" alt="Screenshot 2026-04-20 100204" src="https://github.com/user-attachments/assets/830d45c4-d6c6-44f9-8d1e-b0983e6c83b3" />
+
+
+
+
+
+
+
